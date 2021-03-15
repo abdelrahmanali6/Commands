@@ -1,6 +1,6 @@
 # Overview
 
-Operating system web api which includes commands using ASP.NET MVC REST API
+#### This project includes commands for different Operating systems using ASP.NET MVC REST API
 
 #### It includes the following:-
 ##### * Repository Pattern
@@ -16,7 +16,8 @@ Operating system web api which includes commands using ASP.NET MVC REST API
 
 # Instructions
 
-Connection to the DB Requires to Modify the appsettings.json (UserID,Password,Server) to connect to the DB server
+#### Connection to the DB Requires to Modify the appsettings.json (UserID,Password,Server) to connect to the DB server
+#### Required to add Data to the DB after you connect to you're preffered DB
 
 #### API End Points:-
 ##### * /api/commands (GET,POST)
